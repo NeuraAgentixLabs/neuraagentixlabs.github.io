@@ -16,6 +16,6 @@ We design technologies at the intersection of LLMs, reinforcement learning, and 
 Our work spans autonomous systems, CPS intelligence, smart energy, Green AI, and practical agent engineering.
 
 Connect With Us
-YouTube: @AIAgentic-007
-X / Twitter: @NeuraAgentixAI
-Email: neuraagentixlabs@gmail.com
+- YouTube: @AIAgentic-007
+- X / Twitter: @NeuraAgentixAI
+- Email: neuraagentixlabs@gmail.com
